@@ -108,7 +108,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu
     permissions:
       contents: write
     steps:
